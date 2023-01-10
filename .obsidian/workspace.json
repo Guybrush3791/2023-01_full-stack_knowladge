@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9dfb8d5b7acb8c",
+        "id": "80a1e6070ab3a778",
         "type": "tabs",
         "children": [
           {
-            "id": "09f223e597a85c0b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e0ec70e6dfa8524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-09 - PHP Badwords.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ce2f38b249a8e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-09 - PHP Badwords.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d23a37a48a2d1f8",
+            "id": "660fa8549c9c53ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90dc48ab1e252a8c",
@@ -179,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c98e48b7a57cccd",
+  "active": "660fa8549c9c53ca",
   "lastOpenFiles": [
+    "Live/2023-01-10 - live coding.md",
     "Snacks/2023-01-09 - PHP Badwords.md",
     "Snacks/2023-01-10 - PHP Hotel.md",
-    "Live/2023-01-10 - live coding.md",
     "Hello-World.md"
   ]
 }

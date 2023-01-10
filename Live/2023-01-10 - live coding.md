@@ -29,9 +29,6 @@
     <h1>
         <?php 
             
-            // 1. Inserire delle parole all’interno di un array
-            // 2. controllare se la parola passata dall’utente tramite un form è presente nell'array.
-
             $arr = [
                 "ipsum",
                 "dolor",
