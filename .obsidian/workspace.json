@@ -4,47 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "80a1e6070ab3a778",
+        "id": "d77ef622a9477a43",
         "type": "tabs",
         "children": [
           {
-            "id": "660fa8549c9c53ca",
+            "id": "d675e8e36a1c2020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Snacks/2023-01-10 - PHP Hotel.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cd7635c2f1a2c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Live/2023-01-11 - live coding.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80afb1c01c934947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Live/2023-01-11 - live coding.md",
-                "mode": "preview",
-                "source": false
+                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
+                "viewState": {
+                  "x": 469,
+                  "y": -766.5,
+                  "zoom": -1.650428843698211,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-01-11 - live coding.md",
+                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-01-11 - live coding.md",
+                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-01-11 - live coding.md"
+                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas"
               }
             }
           }
@@ -171,13 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80afb1c01c934947",
+  "active": "d675e8e36a1c2020",
   "lastOpenFiles": [
-    "Live/2023-01-10 - live coding.md",
+    "Test/2023-01-11 - live coding.md",
+    "Live-Test/2023-01-11 - live coding/Flow.canvas",
+    "__assets/imgs/Pasted image 20230111122659.png",
+    "Live-Test/2023-01-11 - live coding/Doc/Consegna.md",
     "Live/2023-01-11 - live coding.md",
-    "Snacks/2023-01-11 - Strong Password Generator.md",
-    "Snacks/2023-01-10 - PHP Hotel.md",
-    "Snacks/2023-01-09 - PHP Badwords.md",
-    "Hello-World.md"
+    "Live/2023-01-10 - live coding.md",
+    "Live-Test/2023-01-11 - live coding/Code/thankyou.php.md",
+    "Live-Test/2023-01-11 - live coding/Code/index.php.md",
+    "Live-Test/2023-01-11 - live coding/Code/libs/helper.php.md",
+    "Snacks/2023-01-10 - PHP Hotel.md"
   ]
 }

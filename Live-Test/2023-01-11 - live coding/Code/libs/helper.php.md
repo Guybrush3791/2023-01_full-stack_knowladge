@@ -1,3 +1,4 @@
+```php
 <?php
 
     $mail = $_POST['mail'] ?? false;
@@ -27,3 +28,4 @@
 
         return "";
     }
+```

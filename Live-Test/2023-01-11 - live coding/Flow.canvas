@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"bdddbb3d62fa032b","x":-555,"y":-2329,"width":2048,"height":611,"color":"2","type":"group","label":"Doc"},
+		{"id":"d46a2c67af5edfae","x":-467,"y":-2253,"width":1886,"height":467,"color":"5","type":"file","file":"Live-Test/2023-01-11 - live coding/Doc/Consegna.md"},
+		{"id":"98ce08813c552807","x":-555,"y":-1498,"width":2048,"height":2294,"color":"4","type":"group","label":"Code"},
+		{"id":"2e30dc001e554714","x":-467,"y":-1397,"width":706,"height":648,"type":"file","file":"Live-Test/2023-01-11 - live coding/Code/libs/helper.php.md"},
+		{"id":"16b9fa433cb94ba3","x":-467,"y":-631,"width":706,"height":1350,"type":"file","file":"Live-Test/2023-01-11 - live coding/Code/index.php.md"},
+		{"id":"3a9b5beca08af0d6","x":713,"y":-429,"width":706,"height":946,"type":"file","file":"Live-Test/2023-01-11 - live coding/Code/thankyou.php.md"},
+		{"id":"8c59b0dde0453ee3","x":890,"y":-1181,"width":352,"height":216,"color":"5","type":"text","text":"# File structure\n```sh\n.\n├── libs\n│   └── helper.php.md\n├── index.php.md\n└── thankyou.php.md\n```"}
+	],
+	"edges":[
+		{"id":"b47b30942b707e8e","fromNode":"2e30dc001e554714","fromSide":"bottom","toNode":"16b9fa433cb94ba3","toSide":"top","label":"require_once"},
+		{"id":"0712c2479108e8e9","fromNode":"16b9fa433cb94ba3","fromSide":"right","toNode":"3a9b5beca08af0d6","toSide":"left","label":"header (redirect)"},
+		{"id":"a4effe19889cdeae","fromNode":"bdddbb3d62fa032b","fromSide":"bottom","toNode":"98ce08813c552807","toSide":"top"}
+	]
+}
