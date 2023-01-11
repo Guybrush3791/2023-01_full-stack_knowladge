@@ -14,12 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-01-10 - PHP Hotel.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cd7635c2f1a2c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live/2023-01-11 - live coding.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80afb1c01c934947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90dc48ab1e252a8c",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-10 - PHP Hotel.md",
+                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-10 - PHP Hotel.md",
+                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-10 - PHP Hotel.md"
+                "file": "Snacks/2023-01-11 - Strong Password Generator.md"
               }
             }
           }
@@ -147,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "660fa8549c9c53ca",
+  "active": "80afb1c01c934947",
   "lastOpenFiles": [
+    "Live/2023-01-11 - live coding.md",
     "Live/2023-01-10 - live coding.md",
-    "Snacks/2023-01-09 - PHP Badwords.md",
     "Snacks/2023-01-10 - PHP Hotel.md",
+    "Snacks/2023-01-09 - PHP Badwords.md",
     "Hello-World.md"
   ]
 }
