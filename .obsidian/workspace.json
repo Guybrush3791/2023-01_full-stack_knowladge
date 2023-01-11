@@ -11,15 +11,11 @@
             "id": "d675e8e36a1c2020",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
-                "viewState": {
-                  "x": 469,
-                  "y": -766.5,
-                  "zoom": -1.650428843698211,
-                  "snapToGrid": false
-                }
+                "file": "Live/2023-01-11 - live coding.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
+                "file": "Live/2023-01-11 - live coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas",
+                "file": "Live/2023-01-11 - live coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live-Test/2023-01-11 - live coding/Flow.canvas"
+                "file": "Live/2023-01-11 - live coding.md"
               }
             }
           }
@@ -152,15 +148,15 @@
   },
   "active": "d675e8e36a1c2020",
   "lastOpenFiles": [
-    "Test/2023-01-11 - live coding.md",
-    "Live-Test/2023-01-11 - live coding/Flow.canvas",
-    "__assets/imgs/Pasted image 20230111122659.png",
-    "Live-Test/2023-01-11 - live coding/Doc/Consegna.md",
+    "Snacks/2023-01-11 - Strong Password Generator.md",
     "Live/2023-01-11 - live coding.md",
+    "Live-Test/2023-01-11 - live coding/Flow.canvas",
+    "Live-Test/2023-01-11 - live coding/Doc/Consegna.md",
+    "Test/2023-01-11 - live coding.md",
+    "__assets/imgs/Pasted image 20230111122659.png",
     "Live/2023-01-10 - live coding.md",
     "Live-Test/2023-01-11 - live coding/Code/thankyou.php.md",
     "Live-Test/2023-01-11 - live coding/Code/index.php.md",
-    "Live-Test/2023-01-11 - live coding/Code/libs/helper.php.md",
-    "Snacks/2023-01-10 - PHP Hotel.md"
+    "Live-Test/2023-01-11 - live coding/Code/libs/helper.php.md"
   ]
 }
