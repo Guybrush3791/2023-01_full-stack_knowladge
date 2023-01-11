@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "file": "Live/2023-01-11 - live coding.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "file": "Live/2023-01-11 - live coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "file": "Live/2023-01-11 - live coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md"
+                "file": "Live/2023-01-11 - live coding.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "80afb1c01c934947",
   "lastOpenFiles": [
-    "Live/2023-01-11 - live coding.md",
     "Live/2023-01-10 - live coding.md",
+    "Live/2023-01-11 - live coding.md",
+    "Snacks/2023-01-11 - Strong Password Generator.md",
     "Snacks/2023-01-10 - PHP Hotel.md",
     "Snacks/2023-01-09 - PHP Badwords.md",
     "Hello-World.md"
