@@ -121,7 +121,7 @@ E' stato tutto svolto all'interno di un componente di prova
 #### `JsonTest.vue`
 Qui abbiamo la *lettura* di tutti i *task* dal `back-end` e la relativa stampa di quei dati in una lista. 
 All'interno del form e' inoltre possibile *aggiungere* un nuovo elemento alla lista, che finira' in *persistenza*.
-```vue
+```js
 <template>
   <div>
     <h1>Hello World</h1>
