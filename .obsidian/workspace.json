@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fadd0a154c835a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-01-12 - Todo List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "file": "Snacks/2023-01-12 - Todo List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md",
+                "file": "Snacks/2023-01-12 - Todo List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-11 - Strong Password Generator.md"
+                "file": "Snacks/2023-01-12 - Todo List.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d675e8e36a1c2020",
+  "active": "0fadd0a154c835a2",
   "lastOpenFiles": [
-    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas",
-    "Snacks/2023-01-11 - Strong Password Generator.md",
     "Live/2023-01-11 - live coding.md",
+    "Snacks/2023-01-12 - Todo List.md",
+    "Snacks/2023-01-11 - Strong Password Generator.md",
+    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas",
     "Live-Test/2023-01-11 - live coding/Flow-Image.png",
     "Live-Test/2023-01-11 - live coding/Doc/Consegna.md",
     "Test/2023-01-11 - live coding.md",
     "__assets/imgs/Pasted image 20230111122659.png",
     "Live/2023-01-10 - live coding.md",
-    "Live-Test/2023-01-11 - live coding/Code/thankyou.php.md",
-    "Live-Test/2023-01-11 - live coding/Code/index.php.md"
+    "Live-Test/2023-01-11 - live coding/Code/thankyou.php.md"
   ]
 }
