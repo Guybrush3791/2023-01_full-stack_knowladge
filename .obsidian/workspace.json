@@ -11,11 +11,15 @@
             "id": "3f308c5a5bc4abbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Live/2023-01-12 - live coding.md",
-                "mode": "source",
-                "source": false
+                "file": "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
+                "viewState": {
+                  "x": 117.00386252294635,
+                  "y": 2015.2190942398397,
+                  "zoom": -5.551115123125783e-17,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -69,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5026054382324
   },
   "right": {
     "id": "90dc48ab1e252a8c",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-01-12 - live coding.md",
+                "file": "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-01-12 - live coding.md",
+                "file": "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-01-12 - live coding.md"
+                "file": "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas"
               }
             }
           }
@@ -148,15 +152,15 @@
   },
   "active": "3f308c5a5bc4abbe",
   "lastOpenFiles": [
+    "Live/2023-01-12 - live coding.md",
+    "__assets/imgs/Pasted image 20230113114749.png",
+    "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
     "Snacks/2023-01-12 - Todo List.md",
     "Snacks/2023-01-11 - Strong Password Generator.md",
-    "Live/2023-01-12 - live coding.md",
     "Live/2023-01-11 - live coding.md",
     "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas",
     "Live-Test/2023-01-11 - live coding/Flow-Image.png",
     "Live-Test/2023-01-11 - live coding/Doc/Consegna.md",
-    "Test/2023-01-11 - live coding.md",
-    "__assets/imgs/Pasted image 20230111122659.png",
-    "Live/2023-01-10 - live coding.md"
+    "Test/2023-01-11 - live coding.md"
   ]
 }
