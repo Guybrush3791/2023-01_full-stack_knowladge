@@ -3,6 +3,7 @@ Abbiamo inoltre fornito la possibilita' all'utente di aggiungere un nuovo elemen
 
 ## Zip
 ![[2023-01-12_json-encode-decode.zip]]
+![[2023-01-13_json-encode-decode.zip]]
 
 ## Code
 ### Back-end
