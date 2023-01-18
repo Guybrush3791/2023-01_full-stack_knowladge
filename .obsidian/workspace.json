@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "99e6eabe2dd665eb",
+        "id": "ee7bdb5a0b13e76d",
         "type": "tabs",
         "children": [
           {
-            "id": "3f308c5a5bc4abbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-12 - Todo List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "440b0c72a76d2300",
+            "id": "8f54249db862f406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-01-16 - DB First.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e722311ba9bc3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-16 - DB First.md",
+                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-16 - DB First.md",
+                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-16 - DB First.md"
+                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "440b0c72a76d2300",
+  "active": "3e722311ba9bc3b6",
   "lastOpenFiles": [
-    "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "Snacks/2023-01-16 - DB First.md",
+    "Snacks/2023-01-18 - DB Relazioni + ER.md",
     "Snacks/2023-01-12 - Todo List.md",
+    "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
     "Live/2023-01-12 - live coding.md",
     "__assets/imgs/Pasted image 20230113114749.png",
     "Snacks/2023-01-11 - Strong Password Generator.md",
     "Live/2023-01-11 - live coding.md",
-    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas",
-    "Live-Test/2023-01-11 - live coding/Flow-Image.png"
+    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas"
   ]
 }
