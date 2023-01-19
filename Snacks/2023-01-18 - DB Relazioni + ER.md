@@ -14,3 +14,10 @@ Le entita' sono: `dipartimento`, `corso di laurea`, `corso`, `insegnante`, `stud
 - ogni *studente* è iscritto ad un solo *corso di laurea*
 - ogni *studente* può iscriversi a più *appelli*
 - per ogni *appello* a cui lo *studente* ha partecipato, è necessario memorizzare il *voto* ottenuto, anche se non sufficiente
+
+## Soluzione
+### Draw.IO file
+![[university-db.drawio]]
+
+### Immagine
+![[university-db.jpg]]
