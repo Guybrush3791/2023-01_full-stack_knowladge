@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c18cadda42402abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live/2023-01-19 - live coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
+                "file": "Live/2023-01-19 - live coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
+                "file": "Live/2023-01-19 - live coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md"
+                "file": "Live/2023-01-19 - live coding.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e722311ba9bc3b6",
+  "active": "c18cadda42402abd",
   "lastOpenFiles": [
-    "Snacks/2023-01-16 - DB First.md",
+    "Live/2023-01-12 - live coding.md",
+    "Live/2023-01-19 - live coding.md",
     "Snacks/2023-01-18 - DB Relazioni + ER.md",
+    "Snacks/2023-01-16 - DB First.md",
     "Snacks/2023-01-12 - Todo List.md",
     "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
-    "Live/2023-01-12 - live coding.md",
     "__assets/imgs/Pasted image 20230113114749.png",
     "Snacks/2023-01-11 - Strong Password Generator.md",
-    "Live/2023-01-11 - live coding.md",
-    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas"
+    "Live/2023-01-11 - live coding.md"
   ]
 }
