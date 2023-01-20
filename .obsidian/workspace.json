@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-01-19 - Query SQL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,15 +185,15 @@
   },
   "active": "d783a288c61d088a",
   "lastOpenFiles": [
-    "Snacks/2023-01-16 - DB First.md",
-    "Snacks/2023-01-19 - Query SQL.md",
+    "Snacks/2023-01-09 - PHP Badwords.md",
     "Live/2023-01-19 - live coding.md",
+    "Snacks/2023-01-19 - Query SQL.md",
     "Snacks/2023-01-18 - DB Relazioni + ER.md",
+    "Snacks/2023-01-16 - DB First.md",
     "Live/2023-01-12 - live coding.md",
     "Snacks/2023-01-12 - Todo List.md",
     "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "__assets/canva/2023-01-13 - Interazione BE-FE + json file (LC).canvas",
-    "__assets/imgs/Pasted image 20230113114749.png",
-    "Snacks/2023-01-11 - Strong Password Generator.md"
+    "__assets/imgs/Pasted image 20230113114749.png"
   ]
 }
