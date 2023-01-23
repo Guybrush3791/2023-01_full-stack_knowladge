@@ -93,3 +93,44 @@ E' *SEMPRE* necessario chiudere correttamente la comunicazione con altri servizi
 ```php
 $conn -> close();
 ```
+## For Linux ONLY
+Per chi usa `XAMPP` come server `HTTP`/`MYSQL`, aggiungere la seguente *fix* per la comunicazione con il `PHP`:
+- dentro a `XAMPP`, aprire le configurazioni del server `MySQL`
+![[Screenshot from 2023-01-23 13-00-28.png]]
+
+- nel menu, aprire il file testuale di configurazione
+![[Screenshot from 2023-01-23 13-00-38.png]]
+
+- all'interno del file aggiungere le seguenti righe in fondo
+```sql
+[mysqld]
+socket=/run/mysqld/mysqld.sock
+
+[client]
+socket=/run/mysqld/mysqld.sock
+```
+![[Screenshot from 2023-01-23 13-00-23.png]]
+
+- riavviare il server DB
+![[Screenshot from 2023-01-23 13-00-28.png]]
+
+- all'interno del terminale collegarsi come utente senza password:
+```sh
+mysql -u root
+```
+
+- modificare la password di `root` con il seguente comando
+```sh
+SET PASSWORD FOR 'root'@localhost = PASSWORD("root");
+```
+
+Sara' ora possibile collegarsi al server `localhost` attraverso il nome utente e password *root*.
+
+#### N.B.:
+Si noti che all'interno del file `PHP` l'indirizzo del *DB* non sara' `localhost` ma `127.0.0.1`:
+```php
+define("DB_SERVERNAME", "127.0.0.1");
+define("DB_USERNAME","root");
+define("DB_PASSWORD", "code");
+define("DB_NAME", "db_university");
+```
