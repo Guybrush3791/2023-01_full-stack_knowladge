@@ -120,16 +120,16 @@ mysql -u root
 ```
 
 - modificare la password di `root` con il seguente comando
-```sh
+```sql
 SET PASSWORD FOR 'root'@localhost = PASSWORD("root");
 ```
 
 Sara' ora possibile collegarsi al server `localhost` attraverso il nome utente e password *root*.
 
 #### N.B.:
-Si noti che all'interno del file `PHP` l'indirizzo del *DB* non sara' `localhost` ma `127.0.0.1`:
+Si noti che all'interno del file `PHP` l'indirizzo `IP` del *DB* non sara' `localhost` ma `127.0.0.1`:
 ```php
-define("DB_SERVERNAME", "127.0.0.1");
+define("DB_SERVERNAME", "127.0.0.1"); // <-- this one
 define("DB_USERNAME","root");
 define("DB_PASSWORD", "code");
 define("DB_NAME", "db_university");

@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee7bdb5a0b13e76d",
+        "id": "79369809563647a5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f54249db862f406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-16 - DB First.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e722311ba9bc3b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-18 - DB Relazioni + ER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c18cadda42402abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Live/2023-01-19 - live coding.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d783a288c61d088a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-19 - Query SQL - 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dac919f09f03935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-19 - Query SQL - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e96bcfb6ce0701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-20 - Query SQL - 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f18a8e84f8eacd8",
+            "id": "a0ee5c8eab3afb90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5026054382324,
-    "collapsed": true
+    "width": 273.5026054382324
   },
   "right": {
     "id": "90dc48ab1e252a8c",
@@ -220,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f18a8e84f8eacd8",
+  "active": "a0ee5c8eab3afb90",
   "lastOpenFiles": [
+    "Snacks/2023-01-16 - DB First.md",
+    "Snacks/2023-01-18 - DB Relazioni + ER.md",
+    "Live/2023-01-19 - live coding.md",
+    "Snacks/2023-01-19 - Query SQL - 1.md",
     "Snacks/2023-01-20 - Query SQL - 2.md",
+    "__assets/imgs/Screenshot from 2023-01-23 13-00-23.png",
     "Tips&Tricks/2023-01-23 - PHP + SQL = MYSQLI.md",
     "Live/2023-01-20 - live coding.md",
-    "Snacks/2023-01-19 - Query SQL - 1.md",
-    "Live/2023-01-19 - live coding.md",
     "Snacks/2023-01-09 - PHP Badwords.md",
-    "Snacks/2023-01-18 - DB Relazioni + ER.md",
-    "Snacks/2023-01-16 - DB First.md",
-    "Live/2023-01-12 - live coding.md",
-    "Snacks/2023-01-12 - Todo List.md"
+    "Live/2023-01-12 - live coding.md"
   ]
 }
