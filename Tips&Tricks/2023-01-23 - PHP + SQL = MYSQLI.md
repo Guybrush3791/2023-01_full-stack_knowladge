@@ -93,7 +93,12 @@ E' *SEMPRE* necessario chiudere correttamente la comunicazione con altri servizi
 ```php
 $conn -> close();
 ```
-## For Linux ONLY
+##
+
+---
+
+## Fix
+### LINUX: XAMP
 Per chi usa `XAMPP` come server `HTTP`/`MYSQL`, aggiungere la seguente *fix* per la comunicazione con il `PHP`:
 - dentro a `XAMPP`, aprire le configurazioni del server `MySQL`
 ![[Screenshot from 2023-01-23 13-00-28.png]]
@@ -124,13 +129,12 @@ mysql -u root
 SET PASSWORD FOR 'root'@localhost = PASSWORD("root");
 ```
 
-Sara' ora possibile collegarsi al server `localhost` attraverso il nome utente e password *root*.
-
-#### N.B.:
-Si noti che all'interno del file `PHP` l'indirizzo `IP` del *DB* non sara' `localhost` ma `127.0.0.1`:
+- nei file `PHP` sotituire `localhost` con `127.0.0.1` come `DB_SERVERNAME`
 ```php
 define("DB_SERVERNAME", "127.0.0.1"); // <-- this one
 define("DB_USERNAME","root");
 define("DB_PASSWORD", "code");
 define("DB_NAME", "db_university");
 ```
+
+Sara' ora possibile collegarsi al server `MySQL` attraverso il nome utente e password *root*.

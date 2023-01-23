@@ -1,8 +1,5 @@
-## Dump DB
-![[db_university.sql.gz]]
-
-## ER
-![[Pasted image 20230119122656.png]]
+## Database
+[[2023-01-19 - db_university]]
 
 ## Query
 1. Selezionare tutti gli insegnanti

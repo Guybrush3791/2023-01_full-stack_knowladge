@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "Tips&Tricks/2023-01-23 - PHP + SQL = MYSQLI.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "49dae6ed8632dbab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,15 +156,15 @@
   },
   "active": "a0ee5c8eab3afb90",
   "lastOpenFiles": [
-    "Snacks/2023-01-16 - DB First.md",
-    "Snacks/2023-01-18 - DB Relazioni + ER.md",
-    "Live/2023-01-19 - live coding.md",
-    "Snacks/2023-01-19 - Query SQL - 1.md",
-    "Snacks/2023-01-20 - Query SQL - 2.md",
-    "__assets/imgs/Screenshot from 2023-01-23 13-00-23.png",
-    "Tips&Tricks/2023-01-23 - PHP + SQL = MYSQLI.md",
-    "Live/2023-01-20 - live coding.md",
+    "Databases/2023-01-19 - db_university.md",
+    "Pasted image 20230123152259.png",
+    "__assets/imgs/Pasted image 20230123152317.png",
+    "Snacks/2023-01-11 - Strong Password Generator.md",
+    "Snacks/2023-01-10 - PHP Hotel.md",
     "Snacks/2023-01-09 - PHP Badwords.md",
-    "Live/2023-01-12 - live coding.md"
+    "Live/2023-01-20 - live coding.md",
+    "Live/2023-01-19 - live coding.md",
+    "Live/2023-01-12 - live coding.md",
+    "Live/2023-01-11 - live coding.md"
   ]
 }
