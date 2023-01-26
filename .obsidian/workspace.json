@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/2023-01-26 - PHP error log.md",
-                "mode": "source",
+                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5086555480957
+    "width": 271.5086555480957
   },
   "right": {
     "id": "90dc48ab1e252a8c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/2023-01-26 - PHP error log.md",
+                "file": "Snacks/2023-01-25 - php-oop-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/2023-01-26 - PHP error log.md",
+                "file": "Snacks/2023-01-25 - php-oop-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/2023-01-26 - PHP error log.md"
+                "file": "Snacks/2023-01-25 - php-oop-2.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e943c10cb134e012",
   "lastOpenFiles": [
+    "Live/2023-01-26 - live coding.md",
+    "Tips&Tricks/2023-01-26 - PHP error log.md",
     "__assets/imgs/Screenshot from 2023-01-26 11-42-48.png",
     "__assets/imgs/Screenshot from 2023-01-26 11-43-34.png",
     "__assets/imgs/Screenshot from 2023-01-26 11-43-11.png",
@@ -155,8 +157,6 @@
     "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "Screenshot from 2023-01-26 11-48-31.png",
     "Snacks/2023-01-25 - php-oop-2.md",
-    "__assets/imgs/Pasted image 20230126102016.png",
-    "Tips&Tricks/2023-01-26 - PHP error log.md",
-    "__assets/imgs/Screenshot from 2023-01-26 11-49-33.png"
+    "__assets/imgs/Pasted image 20230126102016.png"
   ]
 }

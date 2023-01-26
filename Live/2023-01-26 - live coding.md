@@ -4,7 +4,7 @@
 Una classe rappresenta un'entita' della realta' che interagisce con il sistema in qualche modo. Va quindi notato come le caratteristiche che vengono trasposte in variabili sono quelle che hanno una relazione con il sistema informatico. 
 
 #### Costruzione
-Una classe e' tipicamente composta da:
+Una classe e' composta da:
 - *variabili d'istanza*: 
 ```php
 private $var1;
@@ -44,7 +44,7 @@ E' inoltre possibile definire un qualsiasi numero di metodi utili al *life-cycle
 
 ### Rapporto tra le classi
 #### HAS-A
-Il rapporto di tipo *HAS-A* e' un rapporto di appartenenza e/o di utilizzo. Questo tipo di relazione viene utilizzato quando un'oggetto e' utile alla definizione di un altro oggetto (*es*: un'entita' **film** e' caratterizzata da un'entita' **genre** che e' a sua volta una classe)
+Il rapporto di tipo *HAS-A* e' un rapporto di appartenenza e/o di utilizzo. Questo tipo di relazione viene utilizzato quando un'oggetto e' utile alla definizione di un altro oggetto (*es*: un'entita' **film** e' caratterizzata da una o piu' entita' **genre** che e' a sua volta una classe)
 ```php
 $genre = new Genre("Sci-fi", "Science fiction");
 $movie = new Movie("Matrix", "Matrix", 108, "1998", [ $genre1 ]);
@@ -52,11 +52,12 @@ $movie = new Movie("Matrix", "Matrix", 108, "1998", [ $genre1 ]);
 
 Questo tipo di rapporto e' molto utilizzato anche nella produzione di classi rappresentanti un *database*. Nella maggior parte dei casi le relazioni che troviamo tra le tabelle, vengono tradotte in `PHP` come rapporti di tipo *HAS-A*
 ![[Pasted image 20230126102016.png]]
+Ogni `teacher` e' caratterizzato da diversi `courses` che *tiene*, e ogni `course` e' caratterizzato dai `teacher` che lo *tengono*
 
 #### IS-A
 ##### Ereditarieta'
-Il rapporto di tipo *IS-A* e' invece un rapporto di specializzazione di una classe su un'altra. In questo caso abbiamo la classe *padre* che contiene **TUTTE** le *variabili*, *proprieta'* e *metodi* che vengono utilizzati sia dalla classe stessa, sia da tutte le classi che la *ereditano*.
-Avremo quindi un rapporto di specializzazione in cui la classe che eredita **E'** a tutti gli effetti un oggetto **ANCHE** della classe *ereditata*
+Il rapporto di tipo *IS-A* e' invece un rapporto di *specializzazione* di una classe su un'altra. In questo caso abbiamo la classe *padre* che contiene **TUTTE** le *variabili*, *proprieta'* e *metodi* che vengono utilizzati sia dalla classe stessa, sia da tutte le classi che la *ereditano*.
+Avremo quindi un rapporto di *specializzazione* in cui la classe che eredita **E'** a tutti gli effetti un oggetto **ANCHE** della classe *ereditata*
 ###### Person: classe padre
 ```php
 class Person {
@@ -252,7 +253,7 @@ class Teacher extends Person {
 In questo caso possiamo dire che un qualsiasi *studente*, cosi' come un qualsiasi *insegnante*, sono **A TUTTI GLI EFFETTI** delle **PERSONE**. Verranno quindi ereditate tutte le *variabili d'istanza*, *costruttori*, *prorieta'* (getter/setter) e *metodi*.
 
 ##### Polimorfismo
-All'interno della programmazione a oggetti, dove viene sfruttata l'*ereditarieta'*, troviamo spesso utilizzato anche il *polimorfismo*, ovvero la possibilita' di ridefinire dei metodi che sono stati ereditati dalla classe padre, conservando la possibilita' di sfuttare anche il codice ereditato
+All'interno della programmazione a oggetti, dove viene sfruttata l'*ereditarieta'*, troviamo spesso utilizzato anche il *polimorfismo*, ovvero la possibilita' di ridefinire dei metodi che sono stati ereditati dalla classe *padre*, conservando la possibilita' di sfuttare anche il codice *ereditato* (vedi `parent ::`)
 ###### Person: classe padre
 ```php
 class Person {
@@ -305,11 +306,11 @@ class Student extends Person {
 
 ##### Modificatori di visibilita'
 Con l'introduzione dei rapporti di parentela, si rende necessario andare a limitare la liberta' di accesso alle *variabili* e *metodi* in funzione della posizione del chiamante
-- `private`: modificatore piu' stringente di tutti, permette l'accesso *SOLO* nella classe di definizione
-- `protected`: modificatore di visibilita' che permette l'accesso all'interno della classe di appartenenza e di tutte le classi che ereditano
-- `public`: modificatore piu' lasco di tutti, permette l'accesso in qualunque punto del codice
+- `private`: modificatore *piu' stringente* di tutti, permette l'accesso *SOLO* nella classe di definizione
+- `protected`: modificatore di visibilita' che permette l'accesso *all'interno della classe* di appartenenza e di *tutte le classi che ereditano*
+- `public`: modificatore *piu' lasco* di tutti, permette l'accesso in qualunque punto del codice
 
 ###### N.B.:
 Si noti che tipicamente le *variabili d'istanza* sono **TUTTE** `private`, e permettono invece l'accesso in *lettura*/*scrittura* attraverso le *proprieta'* (getter/setter). 
 I metodi sono invece equamente divisi tra `private`, `protected` e `public` in funzione del loro utilizzo.
-Cercare in ogni circostanza di utilizzare modificatori di visibilita' piu' stringenti possibile.
+Cercare in ogni circostanza di utilizzare modificatori di visibilita' *quanto piu' stringenti possibile*.
