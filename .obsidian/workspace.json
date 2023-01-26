@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-24 - php-oop-1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-24 - php-oop-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-24 - php-oop-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md"
+                "file": "Snacks/2023-01-24 - php-oop-1.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "e943c10cb134e012",
   "lastOpenFiles": [
+    "Snacks/2023-01-25 - php-oop-2.md",
     "Live/2023-01-26 - live coding.md",
     "Tips&Tricks/2023-01-26 - PHP error log.md",
     "__assets/imgs/Screenshot from 2023-01-26 11-42-48.png",
@@ -156,7 +157,6 @@
     "__assets/imgs/Screenshot from 2023-01-23 13-00-38.png",
     "__assets/imgs/Screenshot from 2023-01-16 13-58-21.png",
     "Screenshot from 2023-01-26 11-48-31.png",
-    "Snacks/2023-01-25 - php-oop-2.md",
     "__assets/imgs/Pasted image 20230126102016.png"
   ]
 }
