@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "907540f706e094e1",
+    "id": "b88c3302e8caa224",
     "type": "split",
     "children": [
       {
-        "id": "cc34c569091c3380",
+        "id": "b77a918137d796e1",
         "type": "tabs",
         "children": [
           {
-            "id": "5918c33403c52990",
+            "id": "ee126babb544f4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a1163b31ad9821d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-26 - php-oop-3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a117d46eec671ac",
+    "id": "789bac745f92da93",
     "type": "split",
     "children": [
       {
-        "id": "9db16ba153662d90",
+        "id": "44341062e54b4c92",
         "type": "tabs",
         "children": [
           {
-            "id": "24556913a500d924",
+            "id": "d2b6c996e61359a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "238c65229a73e100",
+            "id": "58618284e647d08f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "e9463ed05dac212e",
+            "id": "b0245fb6715424c5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "019c43998603e79b",
+    "id": "94c7d92fbddacb7e",
     "type": "split",
     "children": [
       {
-        "id": "7601cd31d885cb16",
+        "id": "908f6ae513ccc262",
         "type": "tabs",
         "children": [
           {
-            "id": "744fb7bfb54e8b22",
+            "id": "b01c1a481d23bdc9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-26 - php-oop-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "e81450d12d9ae8c4",
+            "id": "8d94085d726ec7c2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md",
+                "file": "Snacks/2023-01-26 - php-oop-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ce560c1965b09c9",
+            "id": "6cdd5751dd3694a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "461e5870855c5690",
+            "id": "90dae534933ded1b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-25 - php-oop-2.md"
+                "file": "Snacks/2023-01-26 - php-oop-3.md"
               }
             }
           }
@@ -159,14 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a1163b31ad9821d",
+  "active": "ee126babb544f4f3",
   "lastOpenFiles": [
-    "Live/2023-01-25 - live coding.md",
     "Snacks/2023-01-25 - php-oop-2.md",
-    "Live/2023-01-24 - live coding.md",
-    "Live/2023-01-26 - live coding.md",
-    "Snacks/2023-01-24 - php-oop-1.md",
-    "Snacks/2023-01-20 - Query SQL - 2.md",
-    "Live/2023-01-20 - live coding.md"
+    "Snacks/2023-01-26 - php-oop-3.md"
   ]
 }
