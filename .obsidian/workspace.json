@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b77a918137d796e1",
+        "id": "5821fd338006575e",
         "type": "tabs",
         "children": [
           {
-            "id": "ee126babb544f4f3",
+            "id": "364a8071fd985e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Snacks/2023-01-26 - php-oop-3.md",
-                "mode": "source",
-                "source": false
+                "file": "__assets/imgs/Pasted image 20230127131808.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-26 - php-oop-3.md",
+                "file": "__assets/imgs/Pasted image 20230127131808.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-26 - php-oop-3.md",
+                "file": "__assets/imgs/Pasted image 20230127131808.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-01-26 - php-oop-3.md"
+                "file": "__assets/imgs/Pasted image 20230127131808.png"
               }
             }
           }
@@ -146,9 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee126babb544f4f3",
+  "active": "d2b6c996e61359a1",
   "lastOpenFiles": [
-    "Snacks/2023-01-25 - php-oop-2.md",
-    "Snacks/2023-01-26 - php-oop-3.md"
+    "Snacks/2023-01-27 - laravel-primi-passi.md",
+    "Snacks/2023-01-26 - php-oop-3.md",
+    "Tips&Tricks/Untitled.md",
+    "Snacks/2023-01-25 - php-oop-2.md"
   ]
 }
