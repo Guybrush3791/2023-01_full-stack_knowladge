@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c2407c07387fbcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live/2023-01-30 - live coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/2023-01-30 - Laravel init.md",
+                "file": "Live/2023-01-30 - live coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/2023-01-30 - Laravel init.md",
+                "file": "Live/2023-01-30 - live coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/2023-01-30 - Laravel init.md"
+                "file": "Live/2023-01-30 - live coding.md"
               }
             }
           }
@@ -146,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e14118392d125e2e",
+  "active": "9c2407c07387fbcd",
   "lastOpenFiles": [
+    "__assets/canva/2023-01-30 - Struttura file - Molisani.canvas",
+    "Live/2023-01-30 - live coding.md",
+    "Untitled 1.canvas",
+    "Tips&Tricks/2023-01-30 - Laravel init.md",
     "__assets/imgs/adv.jpg",
     "Snacks/2023-01-30 - laravel-comics.md",
     "Snacks/2023-01-27 - laravel-primi-passi.md",
     "Tips&Tricks/2023-01-27 - Laravel primi passi.md",
     "__assets/imgs/Pasted image 20230127131808.png",
-    "Snacks/2023-01-26 - php-oop-3.md",
-    "Snacks/2023-01-25 - php-oop-2.md"
+    "Snacks/2023-01-26 - php-oop-3.md"
   ]
 }
