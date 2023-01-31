@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "ccb4a3f5c798a8e3",
+            "id": "84f6e874faec1862",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230131141419.png"
+                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230131141419.png",
+                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230131141419.png",
+                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230131141419.png"
+                "file": "Snacks/2023-01-31 - laravel-model-controller.md"
               }
             }
           }
@@ -169,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2b6c996e61359a1",
+  "active": "84f6e874faec1862",
   "lastOpenFiles": [
-    "Databases/2023-01-31 - movie-db.md",
-    "Databases/2023-01-19 - db_university.md",
+    "__assets/canva/2023-01-31 - Struttura file - My Controller.canvas",
+    "Live/2023-01-31 - live coding.md",
     "Snacks/2023-01-31 - laravel-model-controller.md",
+    "Live/2023-01-30 - live coding.md",
+    "__assets/canva/2023-01-30 - Struttura file - Molisani.canvas",
+    "Databases/2023-01-31 - movie-db.md",
+    "__assets/imgs/Pasted image 20230131141419.png",
+    "Databases/2023-01-19 - db_university.md",
     "__assets/imgs/homepage.png",
-    "__assets/imgs/single.png",
-    "Snacks/2023-01-30 - laravel-comics.md",
-    "__assets/imgs/cta-icons.png",
-    "__assets/imgs/buy-dc-power-visa.svg",
-    "__assets/imgs/buy-comics-subscriptions.png",
-    "__assets/imgs/buy-comics-shop-locator.png"
+    "__assets/imgs/single.png"
   ]
 }
