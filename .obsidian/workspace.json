@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a2279b8ff7fb3f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/2023-01-19 - db_university.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d8bd0259f5f7c3df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84f6e874faec1862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,20 +135,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84f6e874faec1862",
+  "active": "d2b6c996e61359a1",
   "lastOpenFiles": [
-    "__assets/canva/2023-01-31 - Struttura file - My Controller.canvas",
-    "Live/2023-01-31 - live coding.md",
     "Snacks/2023-01-31 - laravel-model-controller.md",
-    "Live/2023-01-30 - live coding.md",
+    "Live-Test/2023-01-31 - excalidraw.com.md",
+    "__assets/canva/2023-01-31 - Struttura file - My Controller.canvas",
+    "Live-Test/drawing 2023-01-31 15.11.02.excalidraw.md",
     "__assets/canva/2023-01-30 - Struttura file - Molisani.canvas",
+    "Live/2023-01-31 - live coding.md",
+    "Live/2023-01-30 - live coding.md",
     "Databases/2023-01-31 - movie-db.md",
     "__assets/imgs/Pasted image 20230131141419.png",
-    "Databases/2023-01-19 - db_university.md",
-    "__assets/imgs/homepage.png",
-    "__assets/imgs/single.png"
+    "Databases/2023-01-19 - db_university.md"
   ]
 }
