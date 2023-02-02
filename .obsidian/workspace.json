@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8bd0259f5f7c3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-01-31 - laravel-model-controller.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef5d1bf4e999e3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-02-01 - laravel-migration-seeder.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "bcaf8b3957c8b237",
+            "id": "9306f71483086482",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d2d2c661ec59d815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-02-02 - laravel-??.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-02-01 - laravel-migration-seeder.md",
+                "file": "Snacks/2023-02-02 - laravel-??.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-02-01 - laravel-migration-seeder.md",
+                "file": "Snacks/2023-02-02 - laravel-??.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-02-01 - laravel-migration-seeder.md"
+                "file": "Snacks/2023-02-02 - laravel-??.md"
               }
             }
           }
@@ -168,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef5d1bf4e999e3d4",
+  "active": "d2b6c996e61359a1",
   "lastOpenFiles": [
+    "Live/2023-02-01 - live coding.md",
+    "Snacks/2023-02-01 - laravel-migration-seeder.md",
     "Snacks/2023-01-31 - laravel-model-controller.md",
     "Databases/2023-01-31 - movie-db.md",
     "Tips&Tricks/Untitled.md",
@@ -177,8 +179,6 @@
     "Live/2023-01-11 - live coding.md",
     "Live/2023-01-12 - live coding.md",
     "Live/2023-01-19 - live coding.md",
-    "Live/2023-01-20 - live coding.md",
-    "Live/2023-01-25 - live coding.md",
-    "Live/2023-01-24 - live coding.md"
+    "Live/2023-01-20 - live coding.md"
   ]
 }
