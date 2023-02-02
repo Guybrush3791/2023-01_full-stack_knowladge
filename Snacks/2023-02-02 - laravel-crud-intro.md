@@ -1,5 +1,5 @@
 ## Repo
-`laravel-??`
+`laravel-crud-intro`
 
 ## Todo
 In progetto nuovo di *Laravel*, generare il codice necessario per gestire la seguente entita':
