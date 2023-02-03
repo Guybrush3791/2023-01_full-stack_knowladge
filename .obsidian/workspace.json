@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-01-03 - laravel-CRUD-1.md",
+                "file": "Live/2023-01-31 - live coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-01-03 - laravel-CRUD-1.md",
+                "file": "Live/2023-01-31 - live coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-01-03 - laravel-CRUD-1.md",
+                "file": "Live/2023-01-31 - live coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-01-03 - laravel-CRUD-1.md"
+                "file": "Live/2023-01-31 - live coding.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   },
   "active": "f461aaae2ef0f738",
   "lastOpenFiles": [
+    "Live/2023-02-03 - live coding.md",
+    "Live/2023-01-31 - live coding.md",
     "Snacks/2023-02-02 - laravel-base-crud.md",
     "Live/2023-02-01 - live coding.md",
     "Snacks/2023-02-01 - laravel-migration-seeder.md",
@@ -189,8 +191,6 @@
     "Databases/2023-01-31 - movie-db.md",
     "Tips&Tricks/Untitled.md",
     "Live/2023-01-10 - live coding.md",
-    "Live/2023-01-11 - live coding.md",
-    "Live/2023-01-12 - live coding.md",
-    "Live/2023-01-19 - live coding.md"
+    "Live/2023-01-11 - live coding.md"
   ]
 }
