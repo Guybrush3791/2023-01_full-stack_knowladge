@@ -1,6 +1,8 @@
 ## Repo
 `laravel-dc-comics`
 
+**N.B.**: il nome della `repo` non c'entra molto con l'esercizio, ma non e' importante, caricare cmq qui l'esercizio ;-)
+
 ## Todo
 Sulla base di quanto visto a lezione e del live coding in allegato ([[2023-02-06 - live coding]]), strutturare una *CRUD COMPLETA* sulla seguente entita':
 
