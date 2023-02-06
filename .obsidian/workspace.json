@@ -11,13 +11,32 @@
             "id": "c6b387cb571a393d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230206113729.png"
+                "file": "__assets/canva/2023-02-06 - Crud completa.canvas",
+                "viewState": {
+                  "x": 549.4860562998009,
+                  "y": 3339.333961845153,
+                  "zoom": -1.699190372688827,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "c449317b534e0a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230206113729.png",
+                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230206113729.png",
+                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230206113729.png"
+                "file": "Snacks/2023-02-06 - laravel-dc-comics.md"
               }
             }
           }
@@ -145,17 +164,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2b6c996e61359a1",
+  "active": "c449317b534e0a5e",
   "lastOpenFiles": [
+    "Snacks/2023-02-03 - laravel-base-crud.md",
+    "Snacks/2023-02-06 - laravel-dc-comics.md",
     "__assets/canva/2023-02-06 - Crud completa.canvas",
     "Live/2023-02-06 - live coding.md",
-    "Snacks/2023-02-03 - laravel-base-crud.md",
+    "__assets/imgs/Pasted image 20230206113729.png",
     "Live/2023-02-03 - live coding.md",
     "Snacks/2023-02-02 - laravel-base-crud.md",
     "Live/2023-01-31 - live coding.md",
     "Live/2023-02-01 - live coding.md",
-    "Snacks/2023-02-01 - laravel-migration-seeder.md",
-    "Snacks/2023-01-31 - laravel-model-controller.md",
-    "Databases/2023-01-31 - movie-db.md"
+    "Snacks/2023-02-01 - laravel-migration-seeder.md"
   ]
 }
