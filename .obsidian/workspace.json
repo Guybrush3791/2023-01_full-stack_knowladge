@@ -8,63 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef5d1bf4e999e3d4",
+            "id": "c6b387cb571a393d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Snacks/2023-02-01 - laravel-migration-seeder.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9306f71483086482",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2d2c661ec59d815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-02-02 - laravel-base-crud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f461aaae2ef0f738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Live/2023-02-03 - live coding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e6379de77c6ee90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-02-03 - laravel-base-crud.md",
-                "mode": "preview",
-                "source": false
+                "file": "__assets/imgs/Pasted image 20230206113729.png"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-02-03 - laravel-base-crud.md",
+                "file": "__assets/imgs/Pasted image 20230206113729.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-02-03 - laravel-base-crud.md",
+                "file": "__assets/imgs/Pasted image 20230206113729.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-02-03 - laravel-base-crud.md"
+                "file": "__assets/imgs/Pasted image 20230206113729.png"
               }
             }
           }
@@ -192,17 +145,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e6379de77c6ee90",
+  "active": "d2b6c996e61359a1",
   "lastOpenFiles": [
-    "Live/2023-02-03 - live coding.md",
+    "__assets/canva/2023-02-06 - Crud completa.canvas",
+    "Live/2023-02-06 - live coding.md",
     "Snacks/2023-02-03 - laravel-base-crud.md",
+    "Live/2023-02-03 - live coding.md",
     "Snacks/2023-02-02 - laravel-base-crud.md",
     "Live/2023-01-31 - live coding.md",
     "Live/2023-02-01 - live coding.md",
     "Snacks/2023-02-01 - laravel-migration-seeder.md",
     "Snacks/2023-01-31 - laravel-model-controller.md",
-    "Databases/2023-01-31 - movie-db.md",
-    "Tips&Tricks/Untitled.md",
-    "Live/2023-01-10 - live coding.md"
+    "Databases/2023-01-31 - movie-db.md"
   ]
 }
