@@ -27,11 +27,15 @@
             "id": "c449317b534e0a5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
-                "mode": "source",
-                "source": false
+                "file": "__assets/canva/2023-02-06 - Crud completa.canvas",
+                "viewState": {
+                  "x": 163.5,
+                  "y": 2479.5,
+                  "zoom": -2.5843846695240082,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
+                "file": "__assets/canva/2023-02-06 - Crud completa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-02-06 - laravel-dc-comics.md",
+                "file": "__assets/canva/2023-02-06 - Crud completa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-02-06 - laravel-dc-comics.md"
+                "file": "__assets/canva/2023-02-06 - Crud completa.canvas"
               }
             }
           }
@@ -166,10 +170,10 @@
   },
   "active": "c449317b534e0a5e",
   "lastOpenFiles": [
-    "Snacks/2023-02-03 - laravel-base-crud.md",
-    "Snacks/2023-02-06 - laravel-dc-comics.md",
-    "__assets/canva/2023-02-06 - Crud completa.canvas",
     "Live/2023-02-06 - live coding.md",
+    "Snacks/2023-02-06 - laravel-dc-comics.md",
+    "Snacks/2023-02-03 - laravel-base-crud.md",
+    "__assets/canva/2023-02-06 - Crud completa.canvas",
     "__assets/imgs/Pasted image 20230206113729.png",
     "Live/2023-02-03 - live coding.md",
     "Snacks/2023-02-02 - laravel-base-crud.md",
