@@ -2,7 +2,7 @@
 `laravel-auth`
 
 ## Todo
-Come visto a lezione, iniziare a progettare un ipotetico sito con parte *amministrativa* e parte *pubblica*. L'argomento un vostro eventuale *portfolio*.
+Come visto a lezione, iniziare a progettare un ipotetico sito con parte *amministrativa* e parte *pubblica*. L'argomento e' un vostro eventuale *portfolio*.
 La pagina pubblica dara' la possibilita' ai visitatori di vedere i *progetti*, mentre quella privata' permettera' all'utente *amministratore* di `creare`, `modificare` o `eliminare` i *progetti* dal portale (stile gestionale).
 Il progetto prendera' anche gran parte della giornata di domani, quindi niente paura per i tempi.
 
