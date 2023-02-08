@@ -1,3 +1,6 @@
+---
+alias: live coding - Laravel AUTH
+---
 # Laravel AUTH
 ## Installazione
 Per attivare l'auteticazione di Laravel basta aggiungere ai comandi utilizzati fin'ora l'installazione e l'esecuzione del pacchetto `laravel/breeze`
@@ -48,6 +51,7 @@ npm i ; npm run dev
 
 ## Utilizzo di rotte protette e NON protette
 Dopo aver creato il solito ecosistema di `front-end` composto da `components`, `layouts` e `pages`, includere all'interno del *mail-layout* i link per la gestione dell'autenticazione (`login`, `register`, ecc)
+#### Views
 - `components\header.blade.php`
 ```php
 <div id="app">
@@ -133,6 +137,7 @@ Dopo aver creato il solito ecosistema di `front-end` composto da `components`, `
 
 Per definire se una rotta deve essere protetta oppure no, e' sufficiente utilizzare la `middleware` all'interno della definizione delle rotte (`routes\web.php`)
 
+#### Rotte
 - rotte **NON** protette
 ```php
 Route::get('/', [MainController :: class, 'home']) -> name('home');
