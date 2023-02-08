@@ -15,5 +15,7 @@ Il progetto prendera' anche gran parte della giornata di domani, quindi niente p
 
 A questo punto dovrebbe essere un progetto *piu' o meno vuoto* con tutto il necessario per lo *sviluppo* della parte di programmazione vera e propria, vista nelle lezioni precedenti.
 
+### Giornata 2
+%%...%%
 
 
