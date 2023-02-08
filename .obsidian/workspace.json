@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1cdfc4bc01eb6def",
+        "id": "abecc412fa5581df",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf490509ef7af03",
+            "id": "fc7087f8458be83c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230208121703.png"
+                "file": "Snacks/2023-02-08 - laravel-auth.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230208121703.png",
+                "file": "Snacks/2023-02-08 - laravel-auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230208121703.png",
+                "file": "Snacks/2023-02-08 - laravel-auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets/imgs/Pasted image 20230208121703.png"
+                "file": "Snacks/2023-02-08 - laravel-auth.md"
               }
             }
           }
@@ -145,17 +147,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2b6c996e61359a1",
+  "floating": {
+    "id": "4276f8a6283a1f1b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dcf79f448bc1aa4f",
+        "type": "window",
+        "children": [
+          {
+            "id": "51f735f9c57dedbd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3fdb948e6dd71a09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Snacks/2023-02-08 - laravel-auth.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 32,
+        "width": 1280,
+        "height": 1408,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "3fdb948e6dd71a09",
   "lastOpenFiles": [
+    "Snacks/2023-02-08 - laravel-auth.md",
     "Live/2023-02-08 - live coding.md",
     "Tips&Tricks/2023-02-08 - MailTrap.md",
+    "__assets/imgs/Pasted image 20230208121703.png",
     "Pasted image 20230208122919.png",
     "__assets/canva/2023-02-06 - Crud completa.canvas",
     "Snacks/2023-02-06 - laravel-dc-comics.md",
     "Live/2023-02-06 - live coding.md",
     "Snacks/2023-02-03 - laravel-base-crud.md",
-    "__assets/imgs/Pasted image 20230206113729.png",
-    "Live/2023-02-03 - live coding.md",
-    "Snacks/2023-02-02 - laravel-base-crud.md"
+    "__assets/imgs/Pasted image 20230206113729.png"
   ]
 }
