@@ -17,7 +17,7 @@ A questo punto dovrebbe essere un progetto *piu' o meno vuoto* con tutto il nece
 
 ### Giornata 2
 Procedere ora con la parte di `CRUD`, a partire da `model`, `migration`, `factory` e `seeder`, per poi concludere con la parte di `view` e `controller` dando la possibilita' all'utente di eseguire tutte le operazioni `CRUD`.
-Mantenere le operazioni di *scrittura* accessibili *solo all'utente registrato* nella [[#Giornata 1]]. Le operazioni in *sola lettura* invece dovranno essere pubbliche (`home` e `show`)
+Mantenere le operazioni di *scrittura* accessibili *solo all'utente registrato* nella [[#Giornata 1]]. Le operazioni in *sola lettura* invece dovranno essere pubbliche (`home` + `show`)
 
 > [!tip]- PROTIP
 > 
@@ -30,7 +30,7 @@ Mantenere le operazioni di *scrittura* accessibili *solo all'utente registrato* 
 | description | text | nullable | 
 | main_image | VARCHAR | unique | | nella forma di `link` |
 | release_date | date | | in past |
-| repo_link | VARCHAR | not nullable ; unique | | `link` a repo **GitHub** |
+| repo_link | VARCHAR | not nullable ; unique | | nella forma di `link` a repo **GitHub** |
 
 > [!tip]- PROTIP
 > Inizialmente inserire comunque dati *fake*, sara' poi cura dell'*amministratore* inserire i dati reali. Per eliminare i dati *fake* sara' suffciente rilanciare il comando `artisan` per il `refresh` delle tabelle.

@@ -47,10 +47,10 @@ npm i ; npm run dev
 ![[Pasted image 20230208122114.png]]
 ![[Pasted image 20230208123230.png]]
 ![[Pasted image 20230208122928.png]]
-	**N.B.**: attenzione, il servizio e' disponibile solo dopo aver impostato un provider mail valido; per la fase di sviluppo si consiglia di utilizzare il servizio [[2023-02-08 - MailTrap]]
+	**N.B.**: attenzione, il servizio e' disponibile solo dopo aver impostato un provider mail valido; per la fase di sviluppo si consiglia di utilizzare il servizio [[2023-02-08 - MailTrap|Mail Trap]]
 
 ## Utilizzo di rotte protette e NON protette
-Dopo aver creato il solito ecosistema di `front-end` composto da `components`, `layouts` e `pages`, includere all'interno del *mail-layout* i link per la gestione dell'autenticazione (`login`, `register`, ecc)
+Dopo aver creato il solito ecosistema di `front-end` composto da `components`, `layouts` e `pages`, includere all'interno del *main-layout* i link per la gestione dell'autenticazione (`login`, `register`, ecc)
 #### Views
 - `components\header.blade.php`
 ```php
@@ -135,20 +135,20 @@ Dopo aver creato il solito ecosistema di `front-end` composto da `components`, `
 </html>
 ```
 
+#### Rotte
 Per definire se una rotta deve essere protetta oppure no, e' sufficiente utilizzare la `middleware` all'interno della definizione delle rotte (`routes\web.php`)
 
-#### Rotte
 - rotte **NON** protette
 ```php
 Route::get('/', [MainController :: class, 'home']) -> name('home');
 ```
 
-- rotte protette: versione 1
+- rotte *protette*: versione 1, *singolarmente*
 ```php
 Route::get('/logged', [MainController :: class, 'logged']) -> middleware(['auth', 'verified']) -> name('logged');
 ```
 
-- rotte protette: versione 2 (gruppo)
+- rotte *protette*: versione 2, *gruppo*
 ```php
 Route::middleware(['auth', 'verified'])
    ->name('admin.')
@@ -158,4 +158,9 @@ Route::middleware(['auth', 'verified'])
          ->name('dashboard');
    });
 ```
-**N.B.**: questa rotta risponde all'URL `localhost:8000/ad/dash` e al nome `admin.dashboard`
+
+> [!tip]- PROTIP
+> questa rotta risponde a:
+> - URL: `localhost:8000/ad/dash` 
+> - nome: `admin.dashboard`
+
