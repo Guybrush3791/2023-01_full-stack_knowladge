@@ -15,4 +15,4 @@ Rifarsa alla struttura vista a lezione sia per la visualizzazione che per l'uplo
 ![[Pasted image 20230210130241.png]]
 
 ## Traccia LC
-[GitHub link](<[GitHub link](https://github.com/Guybrush3791/laravel-auth-lc)>)
+[GitHub link](https://github.com/Guybrush3791/laravel-auth-lc)
