@@ -6,7 +6,7 @@ Sulla continuazione del progetto di ieri, andare a *modificare* il campo `main_i
 
 Sara' quindi necessario modificare in parte il *DB* (`migration` + `factory`), per poi modificare sia la parte di `front-end` per la visualizzazione delle immagini, sia per dare all'*amministratore* la possibilita' di *caricare*/*modificare* le immagini associate ad ogni singolo progetto.
 
-Rifarsa alla struttura vista a lezione sia per la visualizzazione che per l'upload delle immagini e la relativa validazione e salvataggio in *DB*
+Rifarsi alla struttura vista a lezione sia per la visualizzazione che per l'upload delle immagini e la relativa validazione e salvataggio in *DB*
 
 ### home
 ![[Pasted image 20230210130140.png]]

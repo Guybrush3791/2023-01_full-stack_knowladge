@@ -44,7 +44,7 @@ Il tipo di `input` diviene `file`
 ```
 
 ### Controller
-Nel `controller` e' necessario gestire in maniera specifica sia la validazione che l'*upload* vero e proprio.
+Nel `controller` e' necessario gestire in maniera specifica sia la *validazione* che l'*upload* vero e proprio.
 
 #### Validazione
 ```php
@@ -58,7 +58,7 @@ $data = $request -> validate([
 > [!danger] ATTENZIONE!
 > Il `php.ini` di *default* riporta un limite per la dimensione delle immagini caricate a *2Mb*; non eccedere quel limite nelle validazioni *oppure* riportare il limite aumentato anche nel file [[2023-02-10 - PHP INI|php.ini]]
 
-#### Upload file
+#### Upload
 Per rendere il file *persistente* e' necessario copiarlo all'interno della cartella di `storage`
 ```php
 $img_path = Storage::put('uploads', $data['main_image']);
