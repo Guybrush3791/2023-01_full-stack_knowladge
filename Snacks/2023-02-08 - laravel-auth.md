@@ -37,3 +37,6 @@ Mantenere le operazioni di *scrittura* accessibili *solo all'utente registrato* 
 
 ### Bonus
 **Eseguite tutte le operazioni**, e' possibile iniziare abbellendo esteticamente la pagina, per poi terminare costumizzando anche il *form di login*, eventualmente modificando anche l'`header` che contiene il menu in testa alla pagina.
+
+## Correzione
+[GitHub link](https://github.com/Guybrush3791/laravel-auth-lc)
