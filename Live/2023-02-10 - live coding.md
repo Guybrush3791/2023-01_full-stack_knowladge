@@ -55,7 +55,7 @@ $data = $request -> validate([
         ]);
 ```
 
-> [!danger] ATTENTION
+> [!danger] ATTENZIONE!
 > Il `php.ini` di *default* riporta un limite per la dimensione delle immagini caricate a *2Mb*; non eccedere quel limite nelle validazioni *oppure* riportare il limite aumentato anche nel file `php.ini` utilizzato da *Laravel* (vedi [[2023-02-10 - PHP INI|php.ini]])
 
 #### Upload file

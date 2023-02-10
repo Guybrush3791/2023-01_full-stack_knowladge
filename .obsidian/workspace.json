@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-auth+img.md",
+                "file": "Tips&Tricks/2023-02-10 - PHP INI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-auth+img.md",
+                "file": "Tips&Tricks/2023-02-10 - PHP INI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-auth+img.md",
+                "file": "Tips&Tricks/2023-02-10 - PHP INI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-auth+img.md"
+                "file": "Tips&Tricks/2023-02-10 - PHP INI.md"
               }
             }
           }
@@ -175,14 +175,14 @@
   "active": "e3e232d36d483e87",
   "lastOpenFiles": [
     "Live/2023-02-10 - live coding.md",
-    "Live/2023-02-08 - live coding.md",
-    "Snacks/2023-02-08 - laravel-auth.md",
+    "Live-Test/2023-01-11 - live coding/Flow-Canva.canvas",
+    "Live-Test/2023-01-11 - live coding/Code/index.php.md",
     "Snacks/2023-02-10 - laravel-auth+img.md",
     "Tips&Tricks/2023-02-10 - PHP INI.md",
+    "Live/2023-02-08 - live coding.md",
+    "Snacks/2023-02-08 - laravel-auth.md",
     "php.ini.md",
     "__assets/imgs/Pasted image 20230210124924.png",
-    "Tips&Tricks/2023-02-08 - MailTrap.md",
-    "Tips&Tricks/2023-01-30 - Laravel init.md",
-    "Tips&Tricks/2023-01-27 - Laravel primi passi.md"
+    "Tips&Tricks/2023-02-08 - MailTrap.md"
   ]
 }
