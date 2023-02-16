@@ -4,8 +4,11 @@ Per creare un nuovo progetto con tutte le specifiche viste a lezione, e' necessa
 ### Creazione nuovo progetto
 Creare un nuovo progetto tramite riga di comando
 ```sh
-composer create-project laravel/laravel my_project
+composer create-project --prefer-dist laravel/laravel my_project "9.*"
 ```
+
+> [!ATTENTION] ATTENTION
+> Con l'uscita delle nuove versioni di *Laravel* e' necessario specificare la versione che vogliamo installare durante la fase di *creazione del progetto*
 
 ### Impostazione dipendenze tramite pacchetto
 Dopo essere entrati nella cartella del progetto appena creata, aggiungere la dipendenza tramite `composer require` per poi lanciare lo *script* contenuto

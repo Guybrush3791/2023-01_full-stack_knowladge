@@ -4,6 +4,8 @@
 ## Traccia LC
 [GitHub link](https://github.com/Guybrush3791/laravel-relation-2)
 
+## Correzione - LC
+[GitHub link](https://github.com/Guybrush3791/laravel-relation-3)
 ## Todo
 Sulla base di quanto visto a lezione, riprodurre la relazione tra `Movie`, `Genre` e `Tag`
 
