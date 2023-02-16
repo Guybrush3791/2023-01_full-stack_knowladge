@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-relation-3.md",
+                "file": "Snacks/2023-02-15 - laravel-relation-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "972f3e7b4a3e7b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "94c7d92fbddacb7e",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-relation-3.md",
+                "file": "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-relation-3.md",
+                "file": "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-02-10 - laravel-relation-3.md"
+                "file": "Snacks/2023-02-16 - laravel-relation-4 + front-end.md"
               }
             }
           }
@@ -148,17 +160,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ae8ad84ffe43d1b",
+  "active": "972f3e7b4a3e7b68",
   "lastOpenFiles": [
+    "Snacks/2023-02-15 - laravel-relation-3.md",
+    "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
+    "Snacks/2023-02-14 - laravel-relation-2.md",
+    "Snacks/2023-02-13 - laravel-relation-1.md",
     "Tips&Tricks/2023-01-30 - Laravel init.md",
-    "Snacks/2023-02-10 - laravel-relation-2.md",
-    "Snacks/2023-02-10 - laravel-relation-3.md",
     "__assets/imgs/Pasted image 20230215125010.png",
     "Snacks/Untitled.md",
     "Snacks/2023-02-10 - laravel-auth+img.md",
     "__assets/imgs/Pasted image 20230213131457.png",
-    "Snacks/2023-02-10 - laravel-relation-1.md",
-    "er-post.svg",
-    "Snacks/2023-02-08 - laravel-auth.md"
+    "er-post.svg"
   ]
 }
