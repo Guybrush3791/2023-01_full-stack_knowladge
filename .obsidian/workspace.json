@@ -11,19 +11,28 @@
             "id": "e2374b225a303f64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Laravel - Boolean.canvas",
-                "viewState": {
-                  "x": -366.5,
-                  "y": -733.5,
-                  "zoom": -1.2856167391707853,
-                  "snapToGrid": false
-                }
+                "file": "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e422e6821ed0c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-02-17 - laravel api + vue.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.51103591918945
   },
   "right": {
     "id": "94c7d92fbddacb7e",
@@ -89,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel - Boolean.canvas",
+                "file": "Snacks/2023-02-17 - laravel api + vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel - Boolean.canvas",
+                "file": "Snacks/2023-02-17 - laravel api + vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel - Boolean.canvas"
+                "file": "Snacks/2023-02-17 - laravel api + vue.md"
               }
             }
           }
@@ -151,17 +160,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2374b225a303f64",
+  "active": "8e422e6821ed0c01",
   "lastOpenFiles": [
-    "Laravel - Boolean.md",
+    "Snacks/2023-02-16 - laravel-relation-4 + front-end.md",
+    "Snacks/2023-02-17 - laravel api + vue.md",
+    "Snacks/2023-02-15 - laravel-relation-3.md",
     "Snacks/Snacks.md",
-    "Databases/Databases.md",
-    "Live/Live.md",
-    "Laravel - Boolean.canvas",
-    "Tips&Tricks/2023-01-23 - PHP + SQL = MYSQLI.md",
-    "Live-Test/Live-Test.md",
     "Tips&Tricks/Tips&Tricks.md",
-    "drawing 2023-02-16 18.56.39.excalidraw.md",
-    "Tips&Tricks/2023-01-26 - PHP error log.md"
+    "Snacks/2023-02-14 - laravel-relation-2.md",
+    "Live-Test/Live-Test.md",
+    "Laravel - Boolean.canvas",
+    "Laravel - Boolean.md",
+    "Databases/Databases.md"
   ]
 }
