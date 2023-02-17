@@ -1,0 +1,12 @@
+{
+  "skipFirstHeadline": false,
+  "disableHeadlines": false,
+  "graphOverwrite": false,
+  "rootIndexFile": "_Knowladge.md",
+  "autoCreateIndexFile": true,
+  "autoRenameIndexFile": true,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "```folder-index-content\n```",
+  "autoPreviewMode": false
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"77a8f7c13c292e6f","x":-891,"y":-1317,"width":464,"height":801,"type":"file","file":"Live/Live.md"},
+		{"id":"db32b10b5edebc70","x":-328,"y":-1317,"width":464,"height":801,"type":"file","file":"Snacks/Snacks.md"},
+		{"id":"b4f6fa71846565e8","x":-964,"y":-1403,"width":1195,"height":949,"color":"4","type":"group","label":"Code"},
+		{"id":"657c290058c97969","x":-964,"y":-345,"width":1195,"height":949,"color":"3","type":"group","label":"Extra"},
+		{"id":"6e8904eaf4fd1b0e","x":-601,"y":-254,"width":464,"height":801,"type":"file","file":"Tips&Tricks/Tips&Tricks.md"},
+		{"id":"280d1a1d35c68e2c","x":-964,"y":-2071,"width":1195,"height":563,"color":"5","type":"group","label":"Data"},
+		{"id":"e74ac28db71e66b9","x":-584,"y":-1992,"width":400,"height":400,"type":"file","file":"Databases/Databases.md"}
+	],
+	"edges":[
+		{"id":"4c3b0b609289fd6a","fromNode":"77a8f7c13c292e6f","fromSide":"right","toNode":"db32b10b5edebc70","toSide":"left"}
+	]
+}

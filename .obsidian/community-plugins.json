@@ -2,5 +2,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "url-into-selection",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-icon-folder",
+  "file-explorer-note-count",
+  "obsidian-folder-index"
 ]
