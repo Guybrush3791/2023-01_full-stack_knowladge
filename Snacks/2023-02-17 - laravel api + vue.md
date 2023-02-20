@@ -14,7 +14,7 @@ Continuazione dell'esercizio precedente: [[2023-02-15 - laravel-relation-3|larav
 > [!TIP] PROTIP
 > Dando priorita' ai task agli esercizi precedenti,  e' ora possibile siluppare lo stesso progetto in modalita' `micro-service`, ovvero avendo piu' progetti diversi per *front-end* (`VueJS`) e *back-end* (`Laravel`).
 
-Sviluppare che permetta all'utente di vedere la lista di tutti i `Movie` (solo il titolo), all'interno di un progetto in `VueJS` che ricevera' i dati attraverso le `API` sviluppate nel *controller* `ApiController.php` di *Laravel* e collegate con il `file` di *rotte* dedicato (`routes\api.php`).
+Sviluppare una pagina che permetta all'utente di vedere la lista di tutti i `Movie` (solo il titolo), all'interno di un progetto in `VueJS` che ricevera' i dati attraverso le `API` sviluppate nel *controller* `ApiController.php` di *Laravel* e collegate con il `file` di *rotte* dedicato (`routes\api.php`).
 
 ### Bonus 1
 E' possibile, ricalcando i passi visti a lezione, generare dei `form` per la *creazione*/*modifica* dei dati contenuti nel film contando solo la relazione *1aN* con i *generi*
